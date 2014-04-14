@@ -1,0 +1,8 @@
+ {
+      "name": "highlightjs",
+      "description": "HighlightJS syntax highlighting",
+      "homepage": "https://github.com/Sewdn/meteor-highlightjs",
+      "author": "Pieter Soudan",
+      "version": "0.1.0",
+      "git": "https://github.com/Sewdn/meteor-highlightjs"
+}
