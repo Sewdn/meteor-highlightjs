@@ -1,7 +1,7 @@
 Package.describe({
   name: 'sewdn:highlightjs',
   summary: "HighlightJS syntax highlighting",
-  version: "8.4.0_1",
+  version: "8.4.0_2",
   git: "https://github.com/Sewdn/meteor-highlightjs.git"
 });
 
